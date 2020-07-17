@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e31c0a2d-e8d3-47d3-a11e-79360d4db6ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eORh4iZhJ6xSZhkYq2VxKqgg44" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\idea\Ideawork\AAA-framework-wkn-project\project-eureka-management" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e31c0a2d-e8d3-47d3-a11e-79360d4db6ca" name="Default Changelist" comment="" />
+      <created>1594190768245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594190768245</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1594197656174">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1594197656174" />
+    <state x="203" y="306" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594341904673">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="203" y="306" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1594341904673" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1594374303101">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594374303101" />
+    <state x="213" y="38" key="Maven.ArtifactSearchDialog" timestamp="1594343301821">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="38" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1594343301821" />
+    <state x="311" y="10" key="SettingsEditor" timestamp="1594375233818">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="311" y="10" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594375233818" />
+    <state x="53" y="43" key="new project wizard" timestamp="1594343478985">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="53" y="43" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1594343478985" />
+  </component>
+</project>
